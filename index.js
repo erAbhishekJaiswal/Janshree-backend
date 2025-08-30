@@ -155,6 +155,10 @@ app.use('/api/payments', paymentRoutes);
 // Completed
 app.use('/api/cart', cartRoutes);
 
+app.get('/', (req, res) => {
+  res.send('API is running...');
+});
+
 // Error handler middleware
 app.use(errorHandler);
 
