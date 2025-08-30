@@ -1,0 +1,249 @@
+# Completed Controller List
+
+1. UserController
+2. AuthController
+3. ProductController
+4. OrderController
+5. PaymentController
+6. CategoryController
+7. ReviewController
+8. NotificationController
+9. ReportController
+10. AdminController
+
+# Not Completed Controller List
+
+11. InventoryController
+12. ShippingController
+13. CouponController
+14. WishlistController
+15. AnalyticsController
+16. VendorController
+17. AddressController
+18. CartController
+19. FAQController
+20. SupportController
+
+
+# Suggested API Routes for E-commerce Website
+
+# Completed Controllers
+
+# UserController
+GET    /users                # List all users
+GET    /users/:id            # Get user by ID
+POST   /users                # Create new user
+PUT    /users/:id            # Update user
+DELETE /users/:id            # Delete user
+
+# AuthController
+POST   /auth/login           # User login
+POST   /auth/register        # User registration
+POST   /auth/logout          # User logout
+POST   /auth/refresh-token   # Refresh JWT token
+
+# ProductController
+GET    /products             # List all products
+GET    /products/:id         # Get product details
+POST   /products             # Add new product
+PUT    /products/:id         # Update product
+DELETE /products/:id         # Delete product
+
+# OrderController
+GET    /orders               # List all orders
+GET    /orders/:id           # Get order details
+POST   /orders               # Create new order
+PUT    /orders/:id           # Update order
+DELETE /orders/:id           # Cancel order
+
+# PaymentController
+POST   /payments             # Make payment
+GET    /payments/:id         # Get payment status
+GET    /payments/history     # Payment history
+
+# CategoryController
+GET    /categories           # List categories
+GET    /categories/:id       # Get category details
+POST   /categories           # Add category
+PUT    /categories/:id       # Update category
+DELETE /categories/:id       # Delete category
+
+# ReviewController
+GET    /products/:id/reviews # List reviews for product
+POST   /products/:id/reviews # Add review to product
+PUT    /reviews/:id          # Update review
+DELETE /reviews/:id          # Delete review
+
+# NotificationController
+GET    /notifications        # List notifications
+POST   /notifications        # Send notification
+PUT    /notifications/:id    # Mark as read
+DELETE /notifications/:id    # Delete notification
+
+# ReportController
+GET    /reports              # List reports
+POST   /reports              # Create report
+GET    /reports/:id          # Get report details
+
+# AdminController
+GET    /admin/dashboard      # Admin dashboard
+GET    /admin/users          # Manage users
+GET    /admin/orders         # Manage orders
+
+# Not Completed Controllers (Suggested Routes)
+
+# InventoryController
+GET    /inventory            # List inventory items
+POST   /inventory            # Add inventory item
+PUT    /inventory/:id        # Update inventory item
+DELETE /inventory/:id        # Delete inventory item
+
+# ShippingController
+GET    /shipping/options     # List shipping options
+POST   /shipping/track       # Track shipment
+PUT    /shipping/:id         # Update shipping info
+
+# CouponController
+GET    /coupons              # List coupons
+POST   /coupons              # Create coupon
+PUT    /coupons/:id          # Update coupon
+DELETE /coupons/:id          # Delete coupon
+
+# WishlistController
+GET    /wishlist             # Get user's wishlist
+POST   /wishlist             # Add to wishlist
+DELETE /wishlist/:id         # Remove from wishlist
+
+# AnalyticsController
+GET    /analytics/sales      # Sales analytics
+GET    /analytics/users      # User analytics
+
+# VendorController
+GET    /vendors              # List vendors
+POST   /vendors              # Add vendor
+PUT    /vendors/:id          # Update vendor
+DELETE /vendors/:id          # Delete vendor
+
+# AddressController
+GET    /addresses            # List user addresses
+POST   /addresses            # Add address
+PUT    /addresses/:id        # Update address
+DELETE /addresses/:id        # Delete address
+
+# CartController
+GET    /cart                 # Get cart items
+POST   /cart                 # Add item to cart
+PUT    /cart/:id             # Update cart item
+DELETE /cart/:id             # Remove item from cart
+
+# FAQController
+GET    /faqs                 # List FAQs
+POST   /faqs                 # Add FAQ
+PUT    /faqs/:id             # Update FAQ
+DELETE /faqs/:id             # Delete FAQ
+
+# SupportController
+GET    /support/tickets      # List support tickets
+POST   /support/tickets      # Create support ticket
+PUT    /support/tickets/:id  # Update ticket
+DELETE /support/tickets/:id  # Delete ticket
+
+
+
+
+
+
+# Required Pages for E-commerce Website
+
+1. Home Page
+2. Product Listing Page
+3. Product Details Page
+4. Category Page
+5. Search Results Page
+6. User Registration Page
+7. User Login Page
+8. User Profile Page
+9. Edit Profile Page
+10. Cart Page
+11. Checkout Page
+12. Order Confirmation Page
+13. Order History Page
+14. Wishlist Page
+15. Address Management Page
+16. Payment Page
+17. Review Submission Page
+18. Reviews Listing Page
+19. Notifications Page
+20. Admin Dashboard
+21. Admin User Management Page
+22. Admin Product Management Page
+23. Admin Order Management Page
+24. Inventory Management Page
+25. Shipping Management Page
+26. Coupon Management Page
+27. Vendor Management Page
+28. Analytics Dashboard
+29. FAQ Page
+30. Support/Contact Page
+31. Report Issue Page
+32. Terms & Conditions Page
+33. Privacy Policy Page
+34. 404 Not Found Page
+
+
+
+
+
+
+# Required Components for E-commerce Website
+
+1. Header
+2. Footer
+3. Navigation Bar
+4. Sidebar (for admin/dashboard)
+5. Product Card
+6. Product List/Grid
+7. Product Details
+8. Category List
+9. Search Bar
+10. Search Results
+11. User Registration Form
+12. User Login Form
+13. User Profile
+14. Edit Profile Form
+15. Cart
+16. Cart Item
+17. Checkout Form
+18. Order Confirmation
+19. Order History List
+20. Wishlist
+21. Address Management
+22. Address Form
+23. Payment Form
+24. Review Submission Form
+25. Reviews List
+26. Notification List
+27. Admin Dashboard
+28. Admin User Management
+29. Admin Product Management
+30. Admin Order Management
+31. Inventory Management
+32. Shipping Management
+33. Coupon Management
+34. Vendor Management
+35. Analytics Dashboard
+36. FAQ List
+37. FAQ Submission Form
+38. Support/Contact Form
+39. Report Issue Form
+40. Terms & Conditions
+41. Privacy Policy
+42. 404 Not Found
+43. Loader/Spinner
+44. Modal/Dialog
+45. Toast/Alert/Notification
+46. Pagination
+47. Breadcrumbs
+48. Filter/Sort Controls
+49. Rating Component
+50. File/Image Upload

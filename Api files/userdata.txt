@@ -1,0 +1,156 @@
+{
+    "name": "John Doe",
+    "email": "johndoe1@example.com",
+    "password": "pass1234"
+}
+{
+    "name": "Jane Smith",
+    "email": "janesmith2@example.com",
+    "password": "pass2345"
+}
+{
+    "name": "Alice Johnson",
+    "email": "alicejohnson3@example.com",
+    "password": "pass3456"
+}
+{
+    "name": "Bob Williams",
+    "email": "bobwilliams4@example.com",
+    "password": "pass4567"
+}
+{
+    "name": "Charlie Brown",
+    "email": "charliebrown5@example.com",
+    "password": "pass5678"
+}
+{
+    "name": "Diana Miller",
+    "email": "dianamiller6@example.com",
+    "password": "pass6789"
+}
+{
+    "name": "Ethan Davis",
+    "email": "ethandavis7@example.com",
+    "password": "pass7890"
+}
+{
+    "name": "Fiona Wilson",
+    "email": "fionawilson8@example.com",
+    "password": "pass8901"
+}
+{
+    "name": "George Moore",
+    "email": "georgemoore9@example.com",
+    "password": "pass9012"
+}
+{
+    "name": "Hannah Taylor",
+    "email": "hannahtaylor10@example.com",
+    "password": "pass0123"
+}
+{
+    "name": "Ian Anderson",
+    "email": "iananderson11@example.com",
+    "password": "pass1235"
+}
+{
+    "name": "Julia Thomas",
+    "email": "juliathomas12@example.com",
+    "password": "pass2346"
+}
+{
+    "name": "Kevin Jackson",
+    "email": "kevinjackson13@example.com",
+    "password": "pass3457"
+}
+{
+    "name": "Laura White",
+    "email": "laurawhite14@example.com",
+    "password": "pass4568"
+}
+{
+    "name": "Mike Harris",
+    "email": "mikeharris15@example.com",
+    "password": "pass5679"
+}
+{
+    "name": "Nina Martin",
+    "email": "ninamartin16@example.com",
+    "password": "pass6780"
+}
+{
+    "name": "Oscar Thompson",
+    "email": "oscarthompson17@example.com",
+    "password": "pass7891"
+}
+
+
+not created 
+
+
+
+{
+    "name": "Paula Garcia",
+    "email": "paulagarcia18@example.com",
+    "password": "pass8902"
+}
+{
+    "name": "Quentin Martinez",
+    "email": "quentinmartinez19@example.com",
+    "password": "pass9013"
+}
+{
+    "name": "Rachel Robinson",
+    "email": "rachelrobinson20@example.com",
+    "password": "pass0124"
+}
+{
+    "name": "Sam Clark",
+    "email": "samclark21@example.com",
+    "password": "pass1236"
+}
+{
+    "name": "Tina Rodriguez",
+    "email": "tinarodriguez22@example.com",
+    "password": "pass2347"
+}
+{
+    "name": "Uma Lewis",
+    "email": "umalewis23@example.com",
+    "password": "pass3458"
+}
+{
+    "name": "Victor Lee",
+    "email": "victorlee24@example.com",
+    "password": "pass4569"
+}
+{
+    "name": "Wendy Walker",
+    "email": "wendywalker25@example.com",
+    "password": "pass5680"
+}
+{
+    "name": "Xander Hall",
+    "email": "xanderhall26@example.com",
+    "password": "pass6781"
+}
+{
+    "name": "Yara Young",
+    "email": "yarayoung27@example.com",
+    "password": "pass7892"
+}
+{
+    "name": "Zane King",
+    "email": "zaneking28@example.com",
+    "password": "pass8903"
+}
+{
+    "name": "Amber Scott",
+    "email": "amberscott29@example.com",
+    "password": "pass9014"
+}
+{
+    "name": "Brian Green",
+    "email": "briangreen30@example.com",
+    "password": "pass0125"
+}

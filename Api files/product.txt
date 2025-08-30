@@ -1,0 +1,752 @@
+[
+    {
+        "name": "Wireless Mouse",
+        "price": 19.99,
+        "description": "Ergonomic wireless mouse with adjustable DPI.",
+        "images": [
+            {
+                "public_id": "mouse1",
+                "url": "https://example.com/images/mouse1.jpg"
+            }
+        ],
+        "brand": "LogiTech",
+        "category": "Electronics",
+        "countInStock": 120,
+        "user": "user1"
+    },
+    {
+        "name": "Bluetooth Headphones",
+        "price": 49.99,
+        "description": "Over-ear headphones with noise cancellation.",
+        "images": [
+            {
+                "public_id": "headphones1",
+                "url": "https://example.com/images/headphones1.jpg"
+            }
+        ],
+        "brand": "Sony",
+        "category": "Electronics",
+        "countInStock": 80,
+        "user": "user2"
+    },
+    {
+        "name": "Smart Watch",
+        "price": 99.99,
+        "description": "Fitness tracking smart watch with heart rate monitor.",
+        "images": [
+            {
+                "public_id": "watch1",
+                "url": "https://example.com/images/watch1.jpg"
+            }
+        ],
+        "brand": "Fitbit",
+        "category": "Wearables",
+        "countInStock": 60,
+        "user": "user3"
+    },
+    {
+        "name": "Gaming Keyboard",
+        "price": 39.99,
+        "description": "Mechanical keyboard with RGB lighting.",
+        "images": [
+            {
+                "public_id": "keyboard1",
+                "url": "https://example.com/images/keyboard1.jpg"
+            }
+        ],
+        "brand": "Corsair",
+        "category": "Electronics",
+        "countInStock": 75,
+        "user": "user4"
+    },
+    {
+        "name": "USB-C Charger",
+        "price": 14.99,
+        "description": "Fast charging USB-C wall adapter.",
+        "images": [
+            {
+                "public_id": "charger1",
+                "url": "https://example.com/images/charger1.jpg"
+            }
+        ],
+        "brand": "Anker",
+        "category": "Accessories",
+        "countInStock": 200,
+        "user": "user5"
+    },
+    {
+        "name": "Portable SSD",
+        "price": 79.99,
+        "description": "1TB portable SSD with USB 3.1 support.",
+        "images": [
+            {
+                "public_id": "ssd1",
+                "url": "https://example.com/images/ssd1.jpg"
+            }
+        ],
+        "brand": "Samsung",
+        "category": "Storage",
+        "countInStock": 50,
+        "user": "user6"
+    },
+    {
+        "name": "Action Camera",
+        "price": 129.99,
+        "description": "Waterproof action camera with 4K recording.",
+        "images": [
+            {
+                "public_id": "camera1",
+                "url": "https://example.com/images/camera1.jpg"
+            }
+        ],
+        "brand": "GoPro",
+        "category": "Cameras",
+        "countInStock": 40,
+        "user": "user7"
+    },
+    {
+        "name": "Laptop Stand",
+        "price": 24.99,
+        "description": "Adjustable aluminum laptop stand.",
+        "images": [
+            {
+                "public_id": "stand1",
+                "url": "https://example.com/images/stand1.jpg"
+            }
+        ],
+        "brand": "RainDesign",
+        "category": "Accessories",
+        "countInStock": 90,
+        "user": "user8"
+    },
+    {
+        "name": "Wireless Earbuds",
+        "price": 59.99,
+        "description": "True wireless earbuds with charging case.",
+        "images": [
+            {
+                "public_id": "earbuds1",
+                "url": "https://example.com/images/earbuds1.jpg"
+            }
+        ],
+        "brand": "Jabra",
+        "category": "Electronics",
+        "countInStock": 110,
+        "user": "user9"
+    },
+    {
+        "name": "Fitness Tracker",
+        "price": 29.99,
+        "description": "Water-resistant fitness tracker with sleep monitoring.",
+        "images": [
+            {
+                "public_id": "tracker1",
+                "url": "https://example.com/images/tracker1.jpg"
+            }
+        ],
+        "brand": "Mi",
+        "category": "Wearables",
+        "countInStock": 130,
+        "user": "user10"
+    },
+    {
+        "name": "Smartphone",
+        "price": 299.99,
+        "description": "Latest Android smartphone with AMOLED display.",
+        "images": [
+            {
+                "public_id": "phone1",
+                "url": "https://example.com/images/phone1.jpg"
+            }
+        ],
+        "brand": "OnePlus",
+        "category": "Mobiles",
+        "countInStock": 35,
+        "user": "user11"
+    },
+    {
+        "name": "Tablet",
+        "price": 199.99,
+        "description": "10-inch tablet with 64GB storage.",
+        "images": [
+            {
+                "public_id": "tablet1",
+                "url": "https://example.com/images/tablet1.jpg"
+            }
+        ],
+        "brand": "Samsung",
+        "category": "Mobiles",
+        "countInStock": 45,
+        "user": "user12"
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "price": 34.99,
+        "description": "Portable Bluetooth speaker with deep bass.",
+        "images": [
+            {
+                "public_id": "speaker1",
+                "url": "https://example.com/images/speaker1.jpg"
+            }
+        ],
+        "brand": "JBL",
+        "category": "Audio",
+        "countInStock": 100,
+        "user": "user13"
+    },
+    {
+        "name": "Webcam",
+        "price": 29.99,
+        "description": "HD webcam for video conferencing.",
+        "images": [
+            {
+                "public_id": "webcam1",
+                "url": "https://example.com/images/webcam1.jpg"
+            }
+        ],
+        "brand": "Logitech",
+        "category": "Cameras",
+        "countInStock": 70,
+        "user": "user14"
+    },
+    {
+        "name": "External Hard Drive",
+        "price": 59.99,
+        "description": "2TB external hard drive for backup.",
+        "images": [
+            {
+                "public_id": "hdd1",
+                "url": "https://example.com/images/hdd1.jpg"
+            }
+        ],
+        "brand": "WD",
+        "category": "Storage",
+        "countInStock": 65,
+        "user": "user15"
+    },
+    {
+        "name": "Monitor",
+        "price": 149.99,
+        "description": "24-inch Full HD monitor with IPS panel.",
+        "images": [
+            {
+                "public_id": "monitor1",
+                "url": "https://example.com/images/monitor1.jpg"
+            }
+        ],
+        "brand": "Dell",
+        "category": "Electronics",
+        "countInStock": 55,
+        "user": "user16"
+    },
+    {
+        "name": "Wireless Router",
+        "price": 89.99,
+        "description": "Dual-band wireless router with high speed.",
+        "images": [
+            {
+                "public_id": "router1",
+                "url": "https://example.com/images/router1.jpg"
+            }
+        ],
+        "brand": "TP-Link",
+        "category": "Networking",
+        "countInStock": 85,
+        "user": "user17"
+    },
+    {
+        "name": "Power Bank",
+        "price": 22.99,
+        "description": "10000mAh portable power bank.",
+        "images": [
+            {
+                "public_id": "powerbank1",
+                "url": "https://example.com/images/powerbank1.jpg"
+            }
+        ],
+        "brand": "Mi",
+        "category": "Accessories",
+        "countInStock": 150,
+        "user": "user18"
+    },
+    {
+        "name": "VR Headset",
+        "price": 249.99,
+        "description": "Virtual reality headset for immersive gaming.",
+        "images": [
+            {
+                "public_id": "vr1",
+                "url": "https://example.com/images/vr1.jpg"
+            }
+        ],
+        "brand": "Oculus",
+        "category": "Gaming",
+        "countInStock": 30,
+        "user": "user19"
+    },
+    {
+        "name": "Smart Bulb",
+        "price": 12.99,
+        "description": "WiFi-enabled smart LED bulb.",
+        "images": [
+            {
+                "public_id": "bulb1",
+                "url": "https://example.com/images/bulb1.jpg"
+            }
+        ],
+        "brand": "Philips",
+        "category": "Home",
+        "countInStock": 140,
+        "user": "user20"
+    },
+    {
+        "name": "Electric Kettle",
+        "price": 27.99,
+        "description": "Stainless steel electric kettle with auto shut-off.",
+        "images": [
+            {
+                "public_id": "kettle1",
+                "url": "https://example.com/images/kettle1.jpg"
+            }
+        ],
+        "brand": "Prestige",
+        "category": "Home",
+        "countInStock": 95,
+        "user": "user21"
+    },
+    {
+        "name": "Air Purifier",
+        "price": 119.99,
+        "description": "HEPA air purifier for clean indoor air.",
+        "images": [
+            {
+                "public_id": "purifier1",
+                "url": "https://example.com/images/purifier1.jpg"
+            }
+        ],
+        "brand": "Dyson",
+        "category": "Home",
+        "countInStock": 25,
+        "user": "user22"
+    },
+    {
+        "name": "Coffee Maker",
+        "price": 49.99,
+        "description": "Automatic drip coffee maker with timer.",
+        "images": [
+            {
+                "public_id": "coffee1",
+                "url": "https://example.com/images/coffee1.jpg"
+            }
+        ],
+        "brand": "Philips",
+        "category": "Home",
+        "countInStock": 60,
+        "user": "user23"
+    },
+    {
+        "name": "Hair Dryer",
+        "price": 29.99,
+        "description": "Ionic hair dryer with multiple heat settings.",
+        "images": [
+            {
+                "public_id": "dryer1",
+                "url": "https://example.com/images/dryer1.jpg"
+            }
+        ],
+        "brand": "Panasonic",
+        "category": "Personal Care",
+        "countInStock": 80,
+        "user": "user24"
+    },
+    {
+        "name": "Electric Toothbrush",
+        "price": 39.99,
+        "description": "Rechargeable electric toothbrush with timer.",
+        "images": [
+            {
+                "public_id": "toothbrush1",
+                "url": "https://example.com/images/toothbrush1.jpg"
+            }
+        ],
+        "brand": "Oral-B",
+        "category": "Personal Care",
+        "countInStock": 100,
+        "user": "user25"
+    },
+    {
+        "name": "Water Bottle",
+        "price": 9.99,
+        "description": "Insulated stainless steel water bottle.",
+        "images": [
+            {
+                "public_id": "bottle1",
+                "url": "https://example.com/images/bottle1.jpg"
+            }
+        ],
+        "brand": "Milton",
+        "category": "Accessories",
+        "countInStock": 180,
+        "user": "user26"
+    },
+    {
+        "name": "Backpack",
+        "price": 34.99,
+        "description": "Water-resistant laptop backpack.",
+        "images": [
+            {
+                "public_id": "backpack1",
+                "url": "https://example.com/images/backpack1.jpg"
+            }
+        ],
+        "brand": "Wildcraft",
+        "category": "Accessories",
+        "countInStock": 70,
+        "user": "user27"
+    },
+    {
+        "name": "Desk Lamp",
+        "price": 17.99,
+        "description": "LED desk lamp with adjustable brightness.",
+        "images": [
+            {
+                "public_id": "lamp1",
+                "url": "https://example.com/images/lamp1.jpg"
+            }
+        ],
+        "brand": "Philips",
+        "category": "Home",
+        "countInStock": 120,
+        "user": "user28"
+    },
+    {
+        "name": "Smart Plug",
+        "price": 15.99,
+        "description": "WiFi smart plug for remote control.",
+        "images": [
+            {
+                "public_id": "plug1",
+                "url": "https://example.com/images/plug1.jpg"
+            }
+        ],
+        "brand": "TP-Link",
+        "category": "Home",
+        "countInStock": 110,
+        "user": "user29"
+    },
+    {
+        "name": "Electric Shaver",
+        "price": 44.99,
+        "description": "Rechargeable electric shaver for men.",
+        "images": [
+            {
+                "public_id": "shaver1",
+                "url": "https://example.com/images/shaver1.jpg"
+            }
+        ],
+        "brand": "Philips",
+        "category": "Personal Care",
+        "countInStock": 60,
+        "user": "user30"
+    },
+    {
+        "name": "Rice Cooker",
+        "price": 32.99,
+        "description": "Automatic rice cooker with keep-warm function.",
+        "images": [
+            {
+                "public_id": "ricecooker1",
+                "url": "https://example.com/images/ricecooker1.jpg"
+            }
+        ],
+        "brand": "Prestige",
+        "category": "Home",
+        "countInStock": 50,
+        "user": "user31"
+    },
+    {
+        "name": "Steam Iron",
+        "price": 27.99,
+        "description": "Non-stick steam iron with auto shut-off.",
+        "images": [
+            {
+                "public_id": "iron1",
+                "url": "https://example.com/images/iron1.jpg"
+            }
+        ],
+        "brand": "Philips",
+        "category": "Home",
+        "countInStock": 70,
+        "user": "user32"
+    },
+    {
+        "name": "Hand Blender",
+        "price": 19.99,
+        "description": "Multi-purpose hand blender with attachments.",
+        "images": [
+            {
+                "public_id": "blender1",
+                "url": "https://example.com/images/blender1.jpg"
+            }
+        ],
+        "brand": "Bajaj",
+        "category": "Home",
+        "countInStock": 90,
+        "user": "user33"
+    },
+    {
+        "name": "Induction Cooktop",
+        "price": 49.99,
+        "description": "Portable induction cooktop with touch controls.",
+        "images": [
+            {
+                "public_id": "cooktop1",
+                "url": "https://example.com/images/cooktop1.jpg"
+            }
+        ],
+        "brand": "Prestige",
+        "category": "Home",
+        "countInStock": 40,
+        "user": "user34"
+    },
+    {
+        "name": "Mixer Grinder",
+        "price": 59.99,
+        "description": "3-jar mixer grinder with powerful motor.",
+        "images": [
+            {
+                "public_id": "mixer1",
+                "url": "https://example.com/images/mixer1.jpg"
+            }
+        ],
+        "brand": "Bajaj",
+        "category": "Home",
+        "countInStock": 55,
+        "user": "user35"
+    },
+    {
+        "name": "Pressure Cooker",
+        "price": 39.99,
+        "description": "Aluminum pressure cooker with safety valve.",
+        "images": [
+            {
+                "public_id": "pressurecooker1",
+                "url": "https://example.com/images/pressurecooker1.jpg"
+            }
+        ],
+        "brand": "Prestige",
+        "category": "Home",
+        "countInStock": 65,
+        "user": "user36"
+    },
+    {
+        "name": "Juicer",
+        "price": 29.99,
+        "description": "Centrifugal juicer for fruits and vegetables.",
+        "images": [
+            {
+                "public_id": "juicer1",
+                "url": "https://example.com/images/juicer1.jpg"
+            }
+        ],
+        "brand": "Philips",
+        "category": "Home",
+        "countInStock": 75,
+        "user": "user37"
+    },
+    {
+        "name": "Toaster",
+        "price": 17.99,
+        "description": "2-slice pop-up toaster with browning control.",
+        "images": [
+            {
+                "public_id": "toaster1",
+                "url": "https://example.com/images/toaster1.jpg"
+            }
+        ],
+        "brand": "Bajaj",
+        "category": "Home",
+        "countInStock": 80,
+        "user": "user38"
+    },
+    {
+        "name": "Room Heater",
+        "price": 34.99,
+        "description": "Portable room heater with adjustable thermostat.",
+        "images": [
+            {
+                "public_id": "heater1",
+                "url": "https://example.com/images/heater1.jpg"
+            }
+        ],
+        "brand": "Usha",
+        "category": "Home",
+        "countInStock": 45,
+        "user": "user39"
+    },
+    {
+        "name": "Ceiling Fan",
+        "price": 49.99,
+        "description": "Energy-efficient ceiling fan with remote.",
+        "images": [
+            {
+                "public_id": "fan1",
+                "url": "https://example.com/images/fan1.jpg"
+            }
+        ],
+        "brand": "Havells",
+        "category": "Home",
+        "countInStock": 60,
+        "user": "user40"
+    },
+    {
+        "name": "Table Fan",
+        "price": 24.99,
+        "description": "Oscillating table fan with speed control.",
+        "images": [
+            {
+                "public_id": "tablefan1",
+                "url": "https://example.com/images/tablefan1.jpg"
+            }
+        ],
+        "brand": "Usha",
+        "category": "Home",
+        "countInStock": 70,
+        "user": "user41"
+    },
+    {
+        "name": "Electric Tawa",
+        "price": 29.99,
+        "description": "Non-stick electric tawa for roti and dosa.",
+        "images": [
+            {
+                "public_id": "tawa1",
+                "url": "https://example.com/images/tawa1.jpg"
+            }
+        ],
+        "brand": "Prestige",
+        "category": "Home",
+        "countInStock": 50,
+        "user": "user42"
+    },
+    {
+        "name": "Chopper",
+        "price": 14.99,
+        "description": "Manual food chopper for vegetables.",
+        "images": [
+            {
+                "public_id": "chopper1",
+                "url": "https://example.com/images/chopper1.jpg"
+            }
+        ],
+        "brand": "Bajaj",
+        "category": "Home",
+        "countInStock": 90,
+        "user": "user43"
+    },
+    {
+        "name": "Electric Grill",
+        "price": 39.99,
+        "description": "Indoor electric grill for sandwiches.",
+        "images": [
+            {
+                "public_id": "grill1",
+                "url": "https://example.com/images/grill1.jpg"
+            }
+        ],
+        "brand": "Prestige",
+        "category": "Home",
+        "countInStock": 40,
+        "user": "user44"
+    },
+    {
+        "name": "Food Processor",
+        "price": 69.99,
+        "description": "Multi-function food processor with attachments.",
+        "images": [
+            {
+                "public_id": "processor1",
+                "url": "https://example.com/images/processor1.jpg"
+            }
+        ],
+        "brand": "Philips",
+        "category": "Home",
+        "countInStock": 35,
+        "user": "user45"
+    },
+    {
+        "name": "Electric Rice Steamer",
+        "price": 24.99,
+        "description": "Electric rice steamer for healthy cooking.",
+        "images": [
+            {
+                "public_id": "steamer1",
+                "url": "https://example.com/images/steamer1.jpg"
+            }
+        ],
+        "brand": "Prestige",
+        "category": "Home",
+        "countInStock": 55,
+        "user": "user46"
+    },
+    {
+        "name": "Hand Mixer",
+        "price": 19.99,
+        "description": "Hand mixer with multiple speed settings.",
+        "images": [
+            {
+                "public_id": "handmixer1",
+                "url": "https://example.com/images/handmixer1.jpg"
+            }
+        ],
+        "brand": "Bajaj",
+        "category": "Home",
+        "countInStock": 60,
+        "user": "user47"
+    },
+    {
+        "name": "Electric Kettle",
+        "price": 27.99,
+        "description": "Glass electric kettle with LED indicator.",
+        "images": [
+            {
+                "public_id": "kettle2",
+                "url": "https://example.com/images/kettle2.jpg"
+            }
+        ],
+        "brand": "Prestige",
+        "category": "Home",
+        "countInStock": 70,
+        "user": "user48"
+    },
+    {
+        "name": "Smart Scale",
+        "price": 29.99,
+        "description": "Bluetooth smart scale for body composition.",
+        "images": [
+            {
+                "public_id": "scale1",
+                "url": "https://example.com/images/scale1.jpg"
+            }
+        ],
+        "brand": "Mi",
+        "category": "Personal Care",
+        "countInStock": 80,
+        "user": "user49"
+    },
+    {
+        "name": "Electric Blanket",
+        "price": 39.99,
+        "description": "Electric blanket with adjustable heat settings.",
+        "images": [
+            {
+                "public_id": "blanket1",
+                "url": "https://example.com/images/blanket1.jpg"
+            }
+        ],
+        "brand": "Usha",
+        "category": "Home",
+        "countInStock": 30,
+        "user": "user50"
+    }
+]
